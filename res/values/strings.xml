@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to Guessing Game</string>
+    <string name="hello2">You have to guess a number between 1 and 10</string>
+    <string name="app_name">GuessingGame</string>
+    <string name="press">Check</string>
+
+</resources>
